@@ -1,0 +1,16 @@
+/
+│
+├── index.html
+├── research.html
+├── people.html
+├── projects.html
+├── publications.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+└── images/
+    ├── hero.jpg
+    ├── lab.jpg
+    └── team.jpg
